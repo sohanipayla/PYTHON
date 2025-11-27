@@ -1,0 +1,2 @@
+This is new content.
+We are creating a file and copying it.
